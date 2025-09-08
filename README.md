@@ -7,7 +7,7 @@
 
 <!-- Animated sticker section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Coding Animation" width="220"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Programmer Debugging Meme" width="220"/>
 </p>
 
 ---
@@ -20,17 +20,33 @@ I'm a passionate Computer Science student specializing in **algorithms**, **data
 
 ## 🛠️ Projects
 
-### 📸 ShelfCam – Smart Retail Shelf Monitoring System
+### 📸 [ShelfCam – Smart Retail Shelf Monitoring System](https://github.com/prathyush04/ShelfCam)
 > **Tech Stack:** MERN, Computer Vision  
 - 🧠 Designed an AI-powered shelf monitoring system with role-based dashboards for managers and workers  
 - ⚡ Real-time shelf status detection & alerts for efficient retail operations  
-- 🔐 Scalable architecture and robust access control
+- 🔐 Scalable architecture and robust access control  
+- 📊 Built to optimize retail management and minimize out-of-stock events
 
-### 📄 PaperClip – Research Paper Publish-ability Prediction
+### 📄 [PaperClip – Research Paper Publish-ability Prediction](https://github.com/prathyush04/PaperClip)
 > **Tech Stack:** Python, Retrieval Augmented Generation (RAG), NLP  
 - 🤖 Built an AI tool to classify research papers as publishable/non-publishable and suggest conferences  
 - 🕵️‍♂️ Integrated semantic search, plagiarism detection, and feedback using RAG  
-- 📈 Automated solution to enhance decision-making in academic publishing
+- 📈 Automated solution to enhance decision-making in academic publishing  
+- 🎯 Empowers researchers with objective evaluation and next-step recommendations
+
+#### 🌾 [AI-Powered-Smart-Farmer-Companion](https://github.com/prathyush04/AI-Powered-Smart-Farmer-Companion)
+- An AI-driven suite of tools to assist farmers in making smart decisions for crop management and yield improvement.
+- Features predictive analytics, farm health monitoring, and localized recommendations.
+- Focused on sustainability, resource optimization, and empowering rural communities.
+
+#### 🖥️ [frontendShelf](https://github.com/prathyush04/frontendShelf)
+- The front-end codebase for advanced shelf management solutions.
+- Built with React and modern JS practices for speed and maintainability.
+- Includes custom dashboards, visualization tools, and seamless integration with backend services.
+
+#### 🏅 Contributor
+- 🤝 [AI-Powered-Smart-Farmer-Companion (by RakeshYemineni1)](https://github.com/RakeshYemineni1/AI-Powered-Smart-Farmer-Companion)
+  - Collaborated to enhance core algorithms, improve UX/UI, and extend AI-powered features for real-world farmer needs.
 
 ---
 
