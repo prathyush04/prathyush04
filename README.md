@@ -34,15 +34,6 @@ I'm a passionate Computer Science student specializing in **algorithms**, **data
 
 ---
 
-## 🎓 Education
-
-| Year        | Qualification        | Institution                 | Score/CGPA |
-| ----------- | ------------------- | --------------------------- | ---------- |
-| 2023-2027   | BTech               | Parul University            | 7.99 CGPA  |
-| 2020-2022   | Class 12            | Alphores Junior College     | 97.8%      |
-
----
-
 ## 🧩 Skills & Abilities
 
 - **Programming:** Java, Python, C
