@@ -34,7 +34,7 @@ I'm a passionate Computer Science student specializing in **algorithms**, **data
 - 📈 Automated solution to enhance decision-making in academic publishing  
 - 🎯 Empowers researchers with objective evaluation and next-step recommendations
 
-#### 🌾 [AI-Powered-Smart-Farmer-Companion](https://github.com/prathyush04/AI-Powered-Smart-Farmer-Companion)
+#### 🌾 [KrishiSaathi]((https://github.com/prathyush04/KrishiSaathi.git))
 - An AI-driven suite of tools to assist farmers in making smart decisions for crop management and yield improvement.
 - Features predictive analytics, farm health monitoring, and localized recommendations.
 - Focused on sustainability, resource optimization, and empowering rural communities.
