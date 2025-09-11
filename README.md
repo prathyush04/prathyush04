@@ -34,19 +34,10 @@ I'm a passionate Computer Science student specializing in **algorithms**, **data
 - 📈 Automated solution to enhance decision-making in academic publishing  
 - 🎯 Empowers researchers with objective evaluation and next-step recommendations
 
-#### 🌾 [KrishiSaathi]((https://github.com/prathyush04/KrishiSaathi.git))
+#### 🌾 [KrishiSaathi](https://github.com/prathyush04/KrishiSaathi.git)
 - An AI-driven suite of tools to assist farmers in making smart decisions for crop management and yield improvement.
 - Features predictive analytics, farm health monitoring, and localized recommendations.
 - Focused on sustainability, resource optimization, and empowering rural communities.
-
-#### 🖥️ [frontendShelf](https://github.com/prathyush04/frontendShelf)
-- The front-end codebase for advanced shelf management solutions.
-- Built with React and modern JS practices for speed and maintainability.
-- Includes custom dashboards, visualization tools, and seamless integration with backend services.
-
-#### 🏅 Contributor
-- 🤝 [AI-Powered-Smart-Farmer-Companion (by RakeshYemineni1)](https://github.com/RakeshYemineni1/AI-Powered-Smart-Farmer-Companion)
-  - Collaborated to enhance core algorithms, improve UX/UI, and extend AI-powered features for real-world farmer needs.
 
 ---
 
