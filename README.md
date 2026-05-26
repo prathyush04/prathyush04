@@ -1,7 +1,7 @@
 # 🚀 Prathyush Narwade – Portfolio Resume
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+FastAPI+%7C+Prisma;LeetCode+Knight+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Java+%7C+Prisma;LeetCode+Knight+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
