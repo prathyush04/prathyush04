@@ -1,19 +1,19 @@
 # 🚀 Prathyush Narwade – Portfolio Resume
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Java+%7C+Prisma;LeetCode+Knight+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Java+%7C+Spring+Boot;LeetCode+Knight+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 Hi! I'm **Prathyush Narwade**, a Computer Science undergraduate passionate about building scalable full-stack applications and AI-powered systems. I enjoy solving DSA problems, developing impactful software, and exploring modern AI/ML technologies.
 
 - 🎓 B.Tech CSE @ Parul University  
 - 💡 Interested in Full Stack Development & AI/ML  
 - ⚡ Knight on LeetCode (1950+ rating)  
-- 🛠️ Tech Stack: React, FastAPI, Node.js, Prisma, Redis, Python  
+- 🛠️ Tech Stack: React, Spring Boot, Node.js, Prisma, Redis, Python  
 - 🚀 Currently working as an SDE Intern at DDEN  
 
 ---
@@ -27,10 +27,12 @@ Hi! I'm **Prathyush Narwade**, a Computer Science undergraduate passionate about
 - SQL
 
 ### ⚙️ Frameworks & Libraries
+- Spring Boot
 - React
 - Node.js
 - Express.js
 - FastAPI
+- Vite
 
 ### 🤖 AI/ML
 - PyTorch
@@ -66,12 +68,13 @@ Hi! I'm **Prathyush Narwade**, a Computer Science undergraduate passionate about
 
 ## 📌 Featured Projects
 
-### 🌾 KrishiSaathi – AI Farmer Companion
-**Tech Stack:** React, FastAPI, NLP, Random Forest
+### 🚀 ReleaseFlow – DevOps Release Management Platform
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL, Redis, JWT
 
-- Crop recommendation system with **97.5% accuracy**
-- Multilingual farming chatbot
-- Disease detection & fertilizer recommendation
+- Automated deployment tracking, rollback workflows, and release lifecycle management.
+- Built a secure JWT-based role authentication with 15+ REST API endpoints for deployment operations.
+- Reduced deployment status retrieval latency by ~40% using Redis caching and optimized queries.
+- Developed a real-time React dashboard for release monitoring, audit visualization, and environment management.
 
 ---
 
